@@ -43,6 +43,8 @@ Customer onboarding is a critical process for SaaS companies, directly impacting
 - **Improved Retention:** Optimized re-engagement processes led to better customer recovery rates after onboarding delays, reducing the **customer churn risk**.
 
 ### **7. Key Metrics (Before-and-After Comparison)**  
+### 📊 KPI Comparison Chart
+![KPI Comparison Chart](kpi-comparison-chart.png)
 - **Onboarding Duration:** Reduced from 20 days to 15 days on average, addressing the **+3 days delay** identified in the manual process.
 - **Customer Satisfaction (NPS):** Increased from 70 to 85.
 - **Manual Task Reduction:** 30% decrease in manual interventions.
