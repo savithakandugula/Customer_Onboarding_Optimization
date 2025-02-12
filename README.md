@@ -12,7 +12,7 @@ Customer onboarding is a critical process for SaaS companies, directly impacting
 - Increase product adoption by providing clear, consistent onboarding experiences.
 
 ### **3. Current Process ("As-Is" Mapping)**  
-![As-Is Process](as-is-process.png)
+![As-Is Process Diagram](as-is-process-diagram.png)
 - **Manual Processes:** Onboarding heavily relies on manual data entry and communication, causing an average **+3 days delay** in the process.
 - **Inconsistent Customer Experience:** Variability in onboarding quality across different customer segments.
 - **Lack of Visibility:** Limited tracking of onboarding progress for both customers and internal teams.
@@ -25,7 +25,7 @@ Customer onboarding is a critical process for SaaS companies, directly impacting
 - **Re-Engagement Bottlenecks:** The re-engagement process adds additional time and complexity when initial onboarding is ineffective, contributing to lower customer satisfaction and increased churn risk.
 
 ### **5. Proposed Optimized Process ("To-Be" Mapping)**  
-![To-Be Process Diagram](to-be (1).png)
+![To-Be Process Diagram](to-be-process-diagram.png)
 - **Automation:** Implemented automated workflows for data entry, CRM integration, communication, and follow-ups to eliminate manual delays.
 - **Personalized Onboarding:** Enhanced onboarding calls with data-driven personalization, improving customer engagement.
 - **Standardized Onboarding Templates:** Created consistent onboarding checklists and automated communication workflows.
