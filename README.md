@@ -20,6 +20,8 @@ Customer onboarding is a critical process for SaaS companies, directly impacting
 - **Re-Engagement Process:** In cases of delayed product adoption, a re-engagement process is often triggered to improve retention. This involves revisiting onboarding steps to address customer concerns and improve product adoption rates.
 
 ### **4. Pain Point Analysis**  
+### **5 Whys Analysis Diagram**
+![5 Whys Diagram](5-whys-diagram.png)
 - **Root Cause Analysis:** Identified inefficiencies caused by redundant steps, lack of automation, and unclear ownership of tasks.
 - **5 Whys Technique:** Used to uncover deeper causes of delays, including poor cross-departmental communication, outdated tools, and manual data entry inefficiencies.
 - **Re-Engagement Bottlenecks:** The re-engagement process adds additional time and complexity when initial onboarding is ineffective, contributing to lower customer satisfaction and increased churn risk.
