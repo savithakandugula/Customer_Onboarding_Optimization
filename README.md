@@ -1,6 +1,6 @@
-# **Process Improvement Case Study**
+# Customer Onboarding Case Study
 
-## **Title:** *Optimizing Customer Onboarding for a SaaS Company*
+## Title: Optimizing Customer Onboarding for a SaaS Company
 
 ### **1. Introduction**  
 Customer onboarding is a critical process for SaaS companies, directly impacting customer satisfaction, retention, and revenue. This case study outlines how process improvement methodologies were applied to optimize the onboarding process, enhance customer experiences, and improve operational efficiency.
